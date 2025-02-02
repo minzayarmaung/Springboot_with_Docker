@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>springboot_Docker</artifactId>
+	<artifactId>springboot_docker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot_Docker</name>
 	<description>Springboot Project with Docker</description>
